@@ -1,77 +1,77 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BAND SPORTS***" tvg-name="BAND SPORTS" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",BAND SPORTS
-http://streamtv.com.br:80/malek/malek/1659
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1659
 #EXTINF:-1 tvg-id="BAND SPORTS HD***" tvg-name="BAND SPORTS HD" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",BAND SPORTS HD
-http://streamtv.com.br:80/malek/malek/226
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/226
 #EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",COMBATE
-http://streamtv.com.br:80/malek/malek/1650
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1650
 #EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",COMBATE HD
-http://streamtv.com.br:80/malek/malek/218
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/218
 #EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes",ESPN
-http://streamtv.com.br:80/malek/malek/1668
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1668
 #EXTINF:-1 tvg-id="ESPN BRASIL***" tvg-name="ESPN BRASIL" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/62/ESPN_HD.png/revision/latest?cb=20140514124050" group-title="Esportes",ESPN BRASIL
-http://streamtv.com.br:80/malek/malek/1633
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1633
 #EXTINF:-1 tvg-id="ESPN BRASIL HD***" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN BRASIL HD
-http://streamtv.com.br:80/malek/malek/204
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/204
 #EXTINF:-1 tvg-id="ESPN BRASIL HD***" tvg-name="ESPN EXTRA" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN EXTRA
-http://streamtv.com.br:80/malek/malek/1632
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1632
 #EXTINF:-1 tvg-id="ESPN HD-[FONTE 2]" tvg-name="ESPN EXTRA HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN EXTRA HD
-http://streamtv.com.br:80/malek/malek/726
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/726
 #EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN HD" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes",ESPN HD
-http://streamtv.com.br:80/malek/malek/202
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/202
 #EXTINF:-1 tvg-id="ESPN***" tvg-name="ESPN+" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN+
-http://streamtv.com.br:80/malek/malek/1634
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1634
 #EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN+ HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN+ HD
-http://streamtv.com.br:80/malek/malek/205
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/205
 #EXTINF:-1 tvg-id="FISH TV HD***" tvg-name="FISH TV" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Esportes",FISH TV
-http://streamtv.com.br:80/malek/malek/1628
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1628
 #EXTINF:-1 tvg-id="FISH TV HD***" tvg-name="FISH TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Esportes",FISH TV HD
-http://streamtv.com.br:80/malek/malek/272
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/272
 #EXTINF:-1 tvg-id="FOX SPORTS***" tvg-name="FOX SPORTS" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX SPORTS
-http://streamtv.com.br:80/malek/malek/1622
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1622
 #EXTINF:-1 tvg-id="FOX SPORTS HD***" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX SPORTS 1 HD
-http://streamtv.com.br:80/malek/malek/192
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/192
 #EXTINF:-1 tvg-id="FOX SPORTS 2***" tvg-name="FOX SPORTS 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX SPORTS 2
-http://streamtv.com.br:80/malek/malek/1621
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1621
 #EXTINF:-1 tvg-id="FOX SPORTS 2 HD***" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX SPORTS 2 HD
-http://streamtv.com.br:80/malek/malek/193
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/193
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE CLUBES
-http://streamtv.com.br:80/malek/malek/1567
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1567
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE CLUBES HD
-http://streamtv.com.br:80/malek/malek/143
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/143
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 2
-http://streamtv.com.br:80/malek/malek/1573
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1573
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 2 HD
-http://streamtv.com.br:80/malek/malek/149
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/149
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 3
-http://streamtv.com.br:80/malek/malek/1572
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1572
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 3 HD
-http://streamtv.com.br:80/malek/malek/148
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/148
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 4
-http://streamtv.com.br:80/malek/malek/1571
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1571
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 4 HD
-http://streamtv.com.br:80/malek/malek/147
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/147
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 5
-http://streamtv.com.br:80/malek/malek/1570
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1570
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 5 HD
-http://streamtv.com.br:80/malek/malek/146
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/146
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 6
-http://streamtv.com.br:80/malek/malek/1569
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1569
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 6 HD
-http://streamtv.com.br:80/malek/malek/145
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/145
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 7
-http://streamtv.com.br:80/malek/malek/1568
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1568
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 7 HD
-http://streamtv.com.br:80/malek/malek/144
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/144
 #EXTINF:-1 tvg-id="SPORTV***" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV
-http://streamtv.com.br:80/malek/malek/1555
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1555
 #EXTINF:-1 tvg-id="SPORTV HD***" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV HD
-http://streamtv.com.br:80/malek/malek/134
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/134
 #EXTINF:-1 tvg-id="SPORTV 2***" tvg-name="SPORTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 2
-http://streamtv.com.br:80/malek/malek/1554
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1554
 #EXTINF:-1 tvg-id="SPORTV 2 HD***" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 2 HD
-http://streamtv.com.br:80/malek/malek/136
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/136
 #EXTINF:-1 tvg-id="SPORTV 3***" tvg-name="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 3
-http://streamtv.com.br:80/malek/malek/1553
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1553
 #EXTINF:-1 tvg-id="SPORTV 3 HD***" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 3 HD
-http://streamtv.com.br:80/malek/malek/135
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/135
