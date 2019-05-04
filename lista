@@ -1,77 +1,187 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BAND SPORTS***" tvg-name="BAND SPORTS" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",BAND SPORTS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1659
-#EXTINF:-1 tvg-id="BAND SPORTS HD***" tvg-name="BAND SPORTS HD" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/226
-#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",COMBATE
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1650
-#EXTINF:-1 tvg-id="COMBATE HD***" tvg-name="COMBATE HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",COMBATE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/218
-#EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes",ESPN
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1668
-#EXTINF:-1 tvg-id="ESPN BRASIL***" tvg-name="ESPN BRASIL" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/62/ESPN_HD.png/revision/latest?cb=20140514124050" group-title="Esportes",ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1633
-#EXTINF:-1 tvg-id="ESPN BRASIL HD***" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/204
-#EXTINF:-1 tvg-id="ESPN BRASIL HD***" tvg-name="ESPN EXTRA" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN EXTRA
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1632
-#EXTINF:-1 tvg-id="ESPN HD-[FONTE 2]" tvg-name="ESPN EXTRA HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/726
-#EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN HD" tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="Esportes",ESPN HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/202
-#EXTINF:-1 tvg-id="ESPN***" tvg-name="ESPN+" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN+
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1634
-#EXTINF:-1 tvg-id="ESPN HD***" tvg-name="ESPN+ HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN+ HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/205
-#EXTINF:-1 tvg-id="FISH TV HD***" tvg-name="FISH TV" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Esportes",FISH TV
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1628
-#EXTINF:-1 tvg-id="FISH TV HD***" tvg-name="FISH TV HD" tvg-logo="http://printv.esy.es/server/Fish%20TV%20HD.png" group-title="Esportes",FISH TV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/272
-#EXTINF:-1 tvg-id="FOX SPORTS***" tvg-name="FOX SPORTS" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX SPORTS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1622
-#EXTINF:-1 tvg-id="FOX SPORTS HD***" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/192
-#EXTINF:-1 tvg-id="FOX SPORTS 2***" tvg-name="FOX SPORTS 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1621
-#EXTINF:-1 tvg-id="FOX SPORTS 2 HD***" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/193
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1567
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/143
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1573
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/149
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1572
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://www.streamtv.com.br:8090/logo/premiere.png" group-title="Esportes",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/148
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 4
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1571
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/147
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 5
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1570
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/146
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 6
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1569
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/145
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 7
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1568
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/144
-#EXTINF:-1 tvg-id="SPORTV***" tvg-name="SPORTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1555
-#EXTINF:-1 tvg-id="SPORTV HD***" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/134
-#EXTINF:-1 tvg-id="SPORTV 2***" tvg-name="SPORTV 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1554
-#EXTINF:-1 tvg-id="SPORTV 2 HD***" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/136
-#EXTINF:-1 tvg-id="SPORTV 3***" tvg-name="SPORTV 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 3
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1553
-#EXTINF:-1 tvg-id="SPORTV 3 HD***" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Esportes",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/135
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS ESPORTES",ALL SPORT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6812
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11535
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6138
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20863
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4398
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS ESPORTES",BAND SPORTS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20864
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate-1.png" group-title="CANAIS ESPORTES",COMBATE FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8152
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6172
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTES",COMBATE HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20831
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTES",COMBATE SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4392
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="CANAIS ESPORTES",COMBATE SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20832
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS (Champions)" tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="CANAIS ESPORTES",ELEVEN SPORTS (Champions)
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24796
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 (Champions)" tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="CANAIS ESPORTES",ELEVEN SPORTS 2 (Champions)
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24795
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 (Champions)" tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="CANAIS ESPORTES",ELEVEN SPORTS 3 (Champions)
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24794
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11545
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6127
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS ESPORTES",ESPN HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20779
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4381
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png" group-title="CANAIS ESPORTES",ESPN SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20780
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11521
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/7988
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2  HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS ESPORTES",ESPN 2  HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20787
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="CANAIS ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6143
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS ESPORTES",ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11557
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS ESPORTES",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6124
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS ESPORTES",ESPN BRASIL HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20783
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS ESPORTES",ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4380
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png" group-title="CANAIS ESPORTES",ESPN BRASIL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20784
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24788
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png" group-title="CANAIS ESPORTES",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24789
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8151
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6117
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20767
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4372
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="FOX SPORTS 2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTES",FOX SPORTS 2 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20768
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTES",FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11556
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTES",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6118
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTES",FOX SPORTS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20771
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTES",FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4373
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTES",FOX SPORTS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20772
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9144
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6089
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20599
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4333
+#EXTINF:-1 tvg-id="Premiere Clube" tvg-name="PREMIERE CLUBES SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20596
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/8149
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6093
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20615
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4341
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20595
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9230
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6092
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20612
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4340
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20594
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11552
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6091
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20609
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4339
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20593
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/9231
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6090
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20606
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4338
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 5 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20592
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11550
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10259
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20603
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4337
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 6 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20591
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11549
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/10258
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20601
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4336
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 7 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20590
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="PREMIERE 8 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 8 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20589
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="PREMIERE 9 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png" group-title="CANAIS PREMIERE",PREMIERE 9 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20588
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/i.png" group-title="CANAIS ESPORTES",REAL MADRID TV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6183
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11539
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6084
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20540
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4326
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS ESPORTES",SPORTV 2 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20541
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11538
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6083
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20536
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4325
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS ESPORTES",SPORTV 3 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20537
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS ESPORTES",SPORTV FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/11563
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/6082
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS ESPORTES",SPORTV HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20544
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS ESPORTES",SPORTV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/4327
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS ESPORTES",SPORTV SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/20545
