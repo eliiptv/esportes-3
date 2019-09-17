@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES" tvg-logo="https://i2.wp.com/rdctv.com.br/wp-content/uploads/2018/11/Conmebol-2.jpg" group-title="CANAIS ESPORTES",COPA LIBERTADORES
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/61631/61631/32205
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE SD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA DO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/61631/61631/20069
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA DO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/61631/61631/20070
 #EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS ESPORTES",ALL SPORT SD
 plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/61631/61631/6812
 #EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS FHD
